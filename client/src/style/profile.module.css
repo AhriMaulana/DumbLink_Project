@@ -1,0 +1,180 @@
+.head {
+    background-color: #ffffff;
+    display: flex;
+}
+
+.kiri {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.logo {
+    width: 150px;
+}
+
+.kanan {
+    margin: 20px 80px;
+}
+
+.container {
+    display: flex;
+}
+
+.sidebar {
+    width: 15%;
+    height: 100%;
+    background-color: #ffffff;
+}
+
+.button {
+    margin-left: 60px;
+    margin-top: 90px;
+
+}
+
+.button2 {
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.button3 {
+    margin-left: 60px;
+    margin-top: 50px;
+}
+
+.button4 {
+    margin-left: 60px;
+    margin-top: 400px;
+}
+
+.tem {
+    margin-right: 10px;
+    width: 30px;
+
+}
+
+.text {
+    border: none;
+    background: none;
+    color: #000000;
+    font-size: 24px;
+}
+
+.pro {
+
+    margin-right: 10px;
+    width: 30px;
+
+}
+
+.text1 {
+    border: none;
+    background: none;
+    color: #FF9F00;
+    font-size: 24px;
+
+}
+
+.lin {
+
+    margin-right: 10px;
+    width: 30px;
+}
+
+.text2 {
+    border: none;
+    background: none;
+    color: #000000;
+    font-size: 24px;
+
+}
+
+.out {
+
+    margin-right: 10px;
+    width: 30px;
+}
+
+.text3 {
+    border: none;
+    background: none;
+    color: #000000;
+    font-size: 24px;
+
+}
+
+.content {
+    background-color: #ECECEC;
+    width: 100%;
+    height: 955px;
+}
+
+.info {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+
+.form {
+    display: inline-grid;
+    background-color: #ffffff;
+    width: 80%;
+    height: 380px;
+    padding: 40px;
+    margin-left: 150px;
+    margin-top: px;
+    border-radius: 20px;
+}
+
+.button1 {
+    margin-top: 90px;
+    margin-left: 910px;
+}
+
+.label {
+    font-size: 18px;
+    color: #7E7A7A;
+    margin-bottom: 10px;
+}
+.label1 {
+    margin-top: 60px;
+    font-size: 18px;
+    color: #7E7A7A;
+    margin-bottom: 10px;
+}
+
+.name {
+    border: none;
+    padding-left: 10px;
+    font-size: 24px;
+    color: #000000;
+}
+
+.email {
+    border: none;
+    padding: 10px;
+    font-size: 24px;
+    color: #000000;
+}
+
+.delet {
+    background-color: #FF0000;
+    border: none;
+    width: 150px;
+    height: 50px;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 15px;
+}
+
+.save {
+    background-color: #FF9F00;
+    border: none;
+    width: 150px;
+    height: 50px;
+    color: #ffffff;
+    font-size: 18px;
+    border-radius: 15px;
+    margin-right: 20px;
+}

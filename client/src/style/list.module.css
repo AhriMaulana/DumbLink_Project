@@ -1,0 +1,109 @@
+.pp{
+    width: 90px;
+    height: 90px;
+    border-radius: 90px;
+    margin-left: 915px;
+    margin-top: 50px;
+}
+
+.profile {
+    width: 90px;
+}
+
+.p1 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.p2 {
+    font-size: 30px;
+    color: rgb(126, 126, 126);
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.sosmed {
+    display: flex;
+    width: 800px;
+    height: 80px;
+    background-color: black;
+    margin-left: 560px;
+    margin-bottom: 20px;
+}
+
+.facebook {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+}
+
+.instagram {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+}
+
+.twitter {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+}
+
+.youtube {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+}
+
+.whatsapp {
+    margin-left: 30px;
+    margin-top: 5px;
+    width: 70px;
+    height: 70px;
+}
+
+.t1 {
+    color: rgb(255, 255, 255);
+    margin-left: 250px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.t2 {
+    color: rgb(255, 255, 255);
+    margin-left: 255px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.t3 {
+    color: rgb(255, 255, 255);
+    margin-left: 265px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.t4 {
+    color: rgb(255, 255, 255);
+    margin-left: 260px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.t5 {
+    color: rgb(255, 255, 255);
+    margin-left: 250px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+}
+
